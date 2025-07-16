@@ -81,3 +81,5 @@ cd frontend
 npm install
 npm run dev
 ```
+###Demo Video
+[Video](https://drive.google.com/file/d/1VCFoTGoKsEcKdDNkHQXz06tXgIHssXb2/view?usp=sharing)
