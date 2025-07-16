@@ -11,7 +11,7 @@ The app shows a structured profile preview (bio, skills, portfolio links, work s
 ---
 
 ## 📁 Project Structure
-breadButter/
+```breadButter/
 ├── backend/ ➡️ Express Backend
 │ ├── controllers/
 │ ├── routes/
@@ -21,7 +21,7 @@ breadButter/
 ├── components/
 ├── App.jsx
 └── index.css
-
+```
 ---
 
 ## 🟣 API Routes (Backend)
@@ -60,7 +60,11 @@ breadButter/
 
 ## 📮 Postman API Collection
 
-> _Add your Postman API collection links below:_
+> ![Fetch profile](./frontend/assets/Screenshot 2025-07-16 141103.png)
+> ![Upload Resume](./frontend/assets/Screenshot 2025-07-16 141305.png)
+
+## API Doc
+>[Doc](https://docs.google.com/document/d/1RNFa9PvCngoznZSymbnp7Ld6cpIbXWXnqJdSvC6rsLw/edit?usp=sharing)
 ---
 
 ## 🛠️ How to Run Locally
