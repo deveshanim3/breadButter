@@ -65,6 +65,9 @@ The app shows a structured profile preview (bio, skills, portfolio links, work s
 
 ## API Doc
 >[Doc](https://docs.google.com/document/d/1RNFa9PvCngoznZSymbnp7Ld6cpIbXWXnqJdSvC6rsLw/edit?usp=sharing)
+
+### Demo Video
+>[Demo Video](https://drive.google.com/file/d/1VCFoTGoKsEcKdDNkHQXz06tXgIHssXb2/view?usp=sharing)
 ---
 
 ## 🛠️ How to Run Locally
@@ -81,5 +84,4 @@ cd frontend
 npm install
 npm run dev
 ```
-###Demo Video
-[Video](https://drive.google.com/file/d/1VCFoTGoKsEcKdDNkHQXz06tXgIHssXb2/view?usp=sharing)
+
