@@ -14,10 +14,10 @@ const InputForm = ({setProfile}) => {
       if(file){
         const formData=new FormData();
         formData.append('resume',file);
-        response=await axios.post('http://localhost:5000/api/profile/upload-resume',formData);
+        response=await axios.post('https://breadbutter-au1t.onrender.com/api/profile/upload-resume',formData);
       }
       else if(link){
-        response = await axios.post('http://localhost:5000/api/profile/fetch-profile',{link});
+        response = await axios.post('https://breadbutter-au1t.onrender.com/api/profile/fetch-profile',{link});
       }
       else{
         alert('Provied atleast Social media link or Resume')
