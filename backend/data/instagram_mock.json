@@ -1,0 +1,7 @@
+{
+    "username": "riya_shoots",
+    "bio": "Travel and fashion photographer",
+    "posts": ["pastel", "portraits", "goa", "sunset"],
+    "profile_pic": "https://example.com/riya.jpg",
+    "work_samples": ["https://example.com/post1.jpg", "https://example.com/post2.jpg"]
+}
