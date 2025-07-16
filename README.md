@@ -60,8 +60,8 @@ The app shows a structured profile preview (bio, skills, portfolio links, work s
 
 ## 📮 Postman API Collection
 
-> ![Fetch profile](./frontend/assets/Screenshot 2025-07-16 141103.png)
-> ![Upload Resume](./frontend/assets/Screenshot 2025-07-16 141305.png)
+> ![Fetch profile](https://github.com/deveshanim3/breadButter/blob/main/frontend/src/assets/Screenshot%202025-07-16%20141103.png?raw=true)
+> ![Upload Resume](https://github.com/deveshanim3/breadButter/blob/main/frontend/src/assets/Screenshot%202025-07-16%20141305.png?raw=true)
 
 ## API Doc
 >[Doc](https://docs.google.com/document/d/1RNFa9PvCngoznZSymbnp7Ld6cpIbXWXnqJdSvC6rsLw/edit?usp=sharing)
