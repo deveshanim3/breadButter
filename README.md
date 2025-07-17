@@ -23,7 +23,10 @@ The app shows a structured profile preview (bio, skills, portfolio links, work s
 └── index.css
 ```
 ---
-
+---
+## Flowchart (Communication b/w frontend and backend)
+>![Flowchart](https://github.com/deveshanim3/breadButter/blob/main/frontend/src/assets/flowchart.png?raw=true)
+---
 ## 🟣 API Routes (Backend)
 
 | Method | Endpoint | Description |
